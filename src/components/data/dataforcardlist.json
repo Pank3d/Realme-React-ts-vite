@@ -1,0 +1,19 @@
+[
+    {
+        "id":"1",
+        "url":"../src/img/grey.jpg",
+        "title":"Night Sea"
+    },
+    {
+
+        "id":"2",
+        "url":"../src/img/blue.jpg",
+        "title":"Aqua Blue"
+    },
+    {
+
+        "id":"3",
+        "url":"../src/img/yellow.jpg",
+        "title":"Sandy Gold"
+    }
+]

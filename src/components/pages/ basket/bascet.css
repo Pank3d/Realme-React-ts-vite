@@ -1,0 +1,94 @@
+.h1Basc{
+    width: 1440px;
+    height: 83px;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 500;
+    display: flex;
+  justify-content: center;
+  line-height: 82.5px;
+  margin-bottom: 40px;
+  padding-top:60px;
+  
+    
+}
+
+.Bascet{
+    background-color: #F3F3F3;
+}
+
+.delimg{
+    padding-top: 34px;
+    margin-left: 30px;
+    width: 63px;
+    height: 63px;
+}
+
+.deliviry{
+    margin-left: 40px;
+    height: 131px;
+    width: 1320px;
+    background-color: #fff;
+    display: inline-flex;
+    margin-bottom: 41px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.textdel{
+    padding-top: 40px;
+    margin-left: 6px;
+}
+
+.textdel2{
+    margin-left: 6px;
+}
+
+.contforText{
+    margin-bottom: 41px ;
+}
+
+.korzina-menu{
+    color: #00000080;
+    background-color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    width: 1320px;
+    height: 78px;
+    margin-left: 40px;
+    margin-bottom: 1px;
+
+   
+}
+
+.korzina__menu__item{
+    margin-right: 23px;
+}
+
+.korzina__menu__item1{
+    margin-right: 190px;
+}
+
+.km1{
+    display: inline-flex;
+    width: 305px;
+    height: 24px;
+    
+}
+
+.km2{
+    
+    display: inline-flex;
+    margin-left: 212px;
+    
+}
+
+.korzina__menu{
+    padding-bottom: 16px;
+    width: 305px;
+    height: 24px;
+    padding-left: 161px;
+    list-style: none;
+    display: inline-flex;
+    padding-top: 17px;
+}

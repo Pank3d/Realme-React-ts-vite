@@ -1,0 +1,40 @@
+.card11{
+    width: 315px;
+    height: 443px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 40px;
+    margin-right: 10px;
+
+
+}
+
+.card11 h1{
+    font-size: 30px;
+    font-weight: 500;
+
+
+}
+
+.title{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.price{
+    font-size: 20px;
+    font-weight:700 ;
+}
+
+.c33btn{
+    width: 118px;
+    height: 41px;
+    border: 0px solid transparent;
+    border-radius: 15px;
+    background-color: #FFCA00;
+    font-weight: 600;
+    font-size: 14px;
+
+}
+

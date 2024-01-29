@@ -1,0 +1,26 @@
+li{
+    
+    text-align: center;
+    width: 140px;
+    height: 100px;
+    padding-top: 26px;
+    
+}
+
+.switch-color{
+    text-align: center;
+    width: 142px;
+    height: 110px;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+    justify-content: center;
+    
+    
+}
+
+.active{
+    border-radius: 30px;
+    border: 1px solid #FFCA00;
+    
+}

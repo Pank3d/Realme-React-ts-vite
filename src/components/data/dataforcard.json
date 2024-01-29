@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "imageUrl":"../src/img/c33.jpg",
+        "name":"Realme C33",
+        "title":"50mp a million affordable",
+        "price":"Rp 1.599.000"
+    },
+    {
+        "id":"2",
+        "imageUrl":"../src/img/c55.jpg",
+        "name":"Realme C55",
+        "title":"64MP champion camera",
+        "price":"Rp 2.499.000"
+    },
+    {
+        "id":"3",
+        "imageUrl":"../src/img/padmini.jpg",
+        "name":"Realme Pad Mini ",
+        "title":"Powerful Performance Enhancer",
+        "price":"Rp 2.399.000"
+    },
+    {
+        "id":"4",
+        "imageUrl":"../src/img/t100.jpg",
+        "name":"Realme Buds T100 ",
+        "title":"Unlimited Music Freedom",
+        "price":"Rp 299.000"
+        
+    },{
+        "id":"5",
+        "imageUrl":"../src/img/smart-cam.jpg",
+        "name":"Realme Smart Cam ",
+        "title":"Maximum Protection",
+        "price":"Rp 699.000"
+    }, 
+    {
+        "id":"6",
+        "imageUrl":"../src/img/fen.jpg",
+        "name":"Realme Hair Dryer ",
+        "title":"Dries quickly",
+        "price":"Rp 299.000"
+    }
+]
